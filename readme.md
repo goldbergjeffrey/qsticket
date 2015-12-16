@@ -19,5 +19,5 @@ From the certificates snap-in right click the installed certificate and select M
 It is now possible to test the code.
 
 To see this example in action, follow these video links:
-1) [IIS Configuration for qsTicket](https://drive.google.com/open?id=0BxBEVQthCb29ek52R2pCZ3ZOX00)
-2) [qsTicket example](https://drive.google.com/open?id=0BxBEVQthCb29VGhoNlN6NEpXa1E)
+1. [IIS Configuration for qsTicket](https://drive.google.com/open?id=0BxBEVQthCb29ek52R2pCZ3ZOX00)
+2. [qsTicket example](https://drive.google.com/open?id=0BxBEVQthCb29VGhoNlN6NEpXa1E)
