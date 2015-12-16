@@ -17,3 +17,7 @@ Install the certificate to the Personal folder under the Local Machine certifica
 From the certificates snap-in right click the installed certificate and select Manage Private Keys.  Add the application pool account used to host the web page (e.g. IIS AppPool\DefaultAppPool) to the list of users and click Apply.
 
 It is now possible to test the code.
+
+To see this example in action, follow these video links:
+1) [IIS Configuration for qsTicket](https://drive.google.com/open?id=0BxBEVQthCb29ek52R2pCZ3ZOX00)
+2) [qsTicket example](https://drive.google.com/open?id=0BxBEVQthCb29VGhoNlN6NEpXa1E)
